@@ -32,11 +32,10 @@
 ## 💾 Installation
 ```bash
 # For development environment
-
+$ yarn install
 $ yarn dev 
 ```
 
-While developing, you will probably rely mostly on `yarn start`; however, there are additional scripts at your disposal:
 
 | `yarn <script>` | Description                                                          |
 | --------------- | -------------------------------------------------------------------- |
